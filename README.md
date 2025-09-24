@@ -8,6 +8,7 @@
 
 ### 💻 Language
 <p>
+  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
