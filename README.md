@@ -51,9 +51,6 @@
 
 <div align="center">
  <h3><b></b></h3>
-<a href="https://solved.ac/dongok218/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dongok218" alt="Solved.ac Profile"/>
-  </a>
 
 </div>  
 <br>
