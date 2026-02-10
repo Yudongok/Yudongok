@@ -1,8 +1,7 @@
 <div align=center>
 <br>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=DONGOK's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=DONGOK's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 
 <br>
 
@@ -10,6 +9,12 @@
   <a href="https://github.com/Yudongok" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="https://Yudongok.github.io/" target="_blank"><img src="https://img.shields.io/badge/techblog-D3859B?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>
+<br>
+
+<h3 align="center"><b>📊 GitHub Stats 📊</b></h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudongok&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Yudongok&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 <br>
 <br>
 <h3 align="center"><b>🌟 Languages 🌟</b></h3>
@@ -22,8 +27,7 @@
 <br>
 <br>
 
-
- <h3><b>❄️ Frameworks & Libraries ❄️</b></h3>
+<h3><b>❄️ Frameworks & Libraries ❄️</b></h3>
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -50,13 +54,4 @@
 <br>
 <br>
 
-
-<div align="center">
- <h3><b></b></h3>
-
-</div>  
-<br>
-
-<div align="center">
-  
 </div>
