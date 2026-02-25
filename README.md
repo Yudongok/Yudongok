@@ -11,7 +11,7 @@
 <br>
 <br>
 
-## 📈 GitHub Stats
+<h3> 📈 GitHub Stats </h3>
 <p align="center">   
   <img  
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yudongok&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
