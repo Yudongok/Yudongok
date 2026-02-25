@@ -11,11 +11,15 @@
 <br>
 <br>
 
-<h3 align="center"><b>📊 GitHub Stats 📊</b></h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudongok&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Yudongok&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-<br>
+## 📈 GitHub Stats
+<p align="center">   
+  <img  
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yudongok&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
+    height="165" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yudongok&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=html,css"
+    height="165" />
+</p>
 <br>
 <h3 align="center"><b>🌟 Languages 🌟</b></h3>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
