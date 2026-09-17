@@ -1,7 +1,7 @@
 <div align="center">
 
 <br>👋 About Me
-AI Researcher @ EZRobotics Virtual Manufacturing Research Center
+AI Researcher @ <img src="https://img.shields.io/badge/EZRobotics-0A5B9D?style=for-the-badge" align="center" height="22"/> Virtual Manufacturing Research Center
 Designing Robot Simulation Agent AI & Developing Industrial Anomaly Detection Systems
 
 Published a Paper on Medical LLM Fine-Tuning (QLoRA) · Korean Institute of Information Technology (KIIT)
@@ -62,18 +62,14 @@ Aspiring to advance in the fields of Physical AI & Robotics
 C++/MFC Operations Program · REST API Communication · Real-Time Sensor Data Processing
 
 
-<br><br>🛠️ Dev Tools & Backend
+<br><br>🛠️ Tools & Database
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-</p>
 <br>
 </div>
