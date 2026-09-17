@@ -1,7 +1,7 @@
 <div align="center">
 
 <br>👋 About Me
-AI Researcher @ <img src="https://github.com/user-attachments/assets/57670249-1d4a-44b9-823a-41ba154af2dc" height="22" align="center" style="background-color: white; padding: 2px 4px; border-radius: 4px;"/> Virtual Manufacturing Research Center
+AI Researcher @ <img src="https://www.ezrobotics.com/common/imgs/logo-on.png" height="22" align="center"/> Virtual Manufacturing Research Center
 Designing Robot Simulation Agent AI & Developing Industrial Anomaly Detection Systems
 
 Published a Paper on Medical LLM Fine-Tuning (QLoRA) · Korean Institute of Information Technology (KIIT)
