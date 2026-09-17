@@ -68,35 +68,4 @@ C++/MFC application development · REST API integration · Real-time sensor data
 
 <br>
 
----
-
-## 🛠️ Dev Tools & Backend
-
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<br>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yudongok&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
-    height="165" />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yudongok&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=html,css"
-    height="165" />
-</p>
-
-<br>
-
 </div>
