@@ -74,15 +74,6 @@ C++/MFC Operations Program · REST API Communication · Real-Time Sensor Data Pr
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<br><br>📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yudongok&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
-    height="165" />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yudongok&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=html,css"
-    height="165" />
 </p>
 <br>
 </div>
