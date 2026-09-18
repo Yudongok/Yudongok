@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-**AI Researcher @ EzRobotics · Virtual Manufacturing Research Center**
+**AI Researcher @ EasyRobotics · Virtual Manufacturing Research Center**
 
 Designing Robot Simulation Agent AI systems and industrial anomaly detection pipelines  
 Published on Medical LLM Fine-tuning (QLoRA) · Korean Institute of Information Technology  
@@ -17,8 +17,8 @@ Passionate about Physical AI & Robotics — building toward the edge
 <a href="https://github.com/Yudongok" target="_blank">
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://Yudongok.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/techblog-D3859B?style=for-the-badge&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dongok-yu-642273338/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -74,6 +74,8 @@ C++/MFC application development · REST API integration · Real-time sensor data
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -82,6 +84,18 @@ C++/MFC application development · REST API integration · Real-time sensor data
 
 <br>
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yudongok&show_icons=true&theme=dark&rank_icon=github&icon_color=58A6FF"
+    height="165" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yudongok&layout=compact&theme=dark&hide_border=false&langs_count=8&hide=html,css"
+    height="165" />
+</p>
 
 <br>
 
