@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-**AI Researcher @ EasyRobotics · Virtual Manufacturing Research Center**
+**AI Researcher @ eZRobotics · Virtual Manufacturing Research Center**
 
 Designing Robot Simulation Agent AI systems and industrial anomaly detection pipelines  
 Published on Medical LLM Fine-tuning (QLoRA) · Korean Institute of Information Technology  
