@@ -9,7 +9,6 @@
 **Robotics Simulation & AI Engineer @ eZRobotics · Virtual Manufacturing Research Center**
 
 Automating industrial robot simulation with RL, computer vision, and LLM agents  
-Published on Medical LLM Fine-tuning (QLoRA) · Korean Institute of Information Technology  
 Passionate about Physical AI — bridging simulation and real-world robots
 
 <br>
@@ -80,6 +79,15 @@ Passionate about Physical AI — bridging simulation and real-world robots
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+
+<br>
+
+---
+
+## 📄 Publications
+
+**Medical LLM Fine-tuning with QLoRA**  
+Korean Institute of Information Technology
 
 <br><br>
 
